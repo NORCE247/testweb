@@ -1,0 +1,17 @@
+{
+  "name": "memory",
+  "collaborators": [
+    "Narongchai Cherdchoo <nache7383@uit.no>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "memory_bg.wasm",
+    "memory.js",
+    "memory.d.ts"
+  ],
+  "module": "memory.js",
+  "types": "memory.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
