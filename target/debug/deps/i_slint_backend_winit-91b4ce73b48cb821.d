@@ -1,0 +1,14 @@
+/Users/chai/Desktop/wasss/memory/target/debug/deps/libi_slint_backend_winit-91b4ce73b48cb821.rmeta: /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-winit-1.6.0/lib.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-winit-1.6.0/winitwindowadapter.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-winit-1.6.0/event_loop.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-winit-1.6.0/renderer/femtovg.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-winit-1.6.0/renderer/femtovg/glcontext.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-winit-1.6.0/renderer/sw.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-winit-1.6.0/accesskit.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-winit-1.6.0/README.md
+
+/Users/chai/Desktop/wasss/memory/target/debug/deps/i_slint_backend_winit-91b4ce73b48cb821.d: /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-winit-1.6.0/lib.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-winit-1.6.0/winitwindowadapter.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-winit-1.6.0/event_loop.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-winit-1.6.0/renderer/femtovg.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-winit-1.6.0/renderer/femtovg/glcontext.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-winit-1.6.0/renderer/sw.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-winit-1.6.0/accesskit.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-winit-1.6.0/README.md
+
+/Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-winit-1.6.0/lib.rs:
+/Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-winit-1.6.0/winitwindowadapter.rs:
+/Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-winit-1.6.0/event_loop.rs:
+/Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-winit-1.6.0/renderer/femtovg.rs:
+/Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-winit-1.6.0/renderer/femtovg/glcontext.rs:
+/Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-winit-1.6.0/renderer/sw.rs:
+/Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-winit-1.6.0/accesskit.rs:
+/Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-winit-1.6.0/README.md:
+
+# env-dep:CARGO_PKG_VERSION=1.6.0

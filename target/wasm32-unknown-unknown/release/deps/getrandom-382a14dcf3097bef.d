@@ -1,0 +1,11 @@
+/Users/chai/Desktop/wasss/memory/target/wasm32-unknown-unknown/release/deps/libgetrandom-382a14dcf3097bef.rmeta: /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/lib.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error_impls.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/js.rs
+
+/Users/chai/Desktop/wasss/memory/target/wasm32-unknown-unknown/release/deps/libgetrandom-382a14dcf3097bef.rlib: /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/lib.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error_impls.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/js.rs
+
+/Users/chai/Desktop/wasss/memory/target/wasm32-unknown-unknown/release/deps/getrandom-382a14dcf3097bef.d: /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/lib.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error_impls.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/js.rs
+
+/Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/lib.rs:
+/Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error.rs:
+/Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util.rs:
+/Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error_impls.rs:
+/Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/js.rs:

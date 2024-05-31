@@ -1,0 +1,11 @@
+/Users/chai/Desktop/wasss/memory/target/wasm32-unknown-unknown/release/deps/libsoftbuffer-cdbb339c17293869.rmeta: /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/lib.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/web.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/error.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/util.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/../README.md
+
+/Users/chai/Desktop/wasss/memory/target/wasm32-unknown-unknown/release/deps/libsoftbuffer-cdbb339c17293869.rlib: /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/lib.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/web.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/error.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/util.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/../README.md
+
+/Users/chai/Desktop/wasss/memory/target/wasm32-unknown-unknown/release/deps/softbuffer-cdbb339c17293869.d: /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/lib.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/web.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/error.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/util.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/../README.md
+
+/Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/lib.rs:
+/Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/web.rs:
+/Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/error.rs:
+/Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/util.rs:
+/Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/../README.md:

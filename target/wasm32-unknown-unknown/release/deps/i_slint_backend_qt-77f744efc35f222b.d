@@ -1,0 +1,10 @@
+/Users/chai/Desktop/wasss/memory/target/wasm32-unknown-unknown/release/deps/libi_slint_backend_qt-77f744efc35f222b.rmeta: /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-qt-1.6.0/lib.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-qt-1.6.0/accessible_generated.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-qt-1.6.0/key_generated.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-qt-1.6.0/README.md
+
+/Users/chai/Desktop/wasss/memory/target/wasm32-unknown-unknown/release/deps/libi_slint_backend_qt-77f744efc35f222b.rlib: /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-qt-1.6.0/lib.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-qt-1.6.0/accessible_generated.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-qt-1.6.0/key_generated.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-qt-1.6.0/README.md
+
+/Users/chai/Desktop/wasss/memory/target/wasm32-unknown-unknown/release/deps/i_slint_backend_qt-77f744efc35f222b.d: /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-qt-1.6.0/lib.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-qt-1.6.0/accessible_generated.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-qt-1.6.0/key_generated.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-qt-1.6.0/README.md
+
+/Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-qt-1.6.0/lib.rs:
+/Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-qt-1.6.0/accessible_generated.rs:
+/Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-qt-1.6.0/key_generated.rs:
+/Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-qt-1.6.0/README.md:

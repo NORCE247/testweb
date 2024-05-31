@@ -1,0 +1,10 @@
+/Users/chai/Desktop/wasss/memory/target/debug/deps/libcss_color_parser2-79616a0e6d624552.rmeta: /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/css-color-parser2-1.0.1/src/lib.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/css-color-parser2-1.0.1/src/color/mod.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/css-color-parser2-1.0.1/src/color/color.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/css-color-parser2-1.0.1/src/color/named_colors.rs
+
+/Users/chai/Desktop/wasss/memory/target/debug/deps/libcss_color_parser2-79616a0e6d624552.rlib: /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/css-color-parser2-1.0.1/src/lib.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/css-color-parser2-1.0.1/src/color/mod.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/css-color-parser2-1.0.1/src/color/color.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/css-color-parser2-1.0.1/src/color/named_colors.rs
+
+/Users/chai/Desktop/wasss/memory/target/debug/deps/css_color_parser2-79616a0e6d624552.d: /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/css-color-parser2-1.0.1/src/lib.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/css-color-parser2-1.0.1/src/color/mod.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/css-color-parser2-1.0.1/src/color/color.rs /Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/css-color-parser2-1.0.1/src/color/named_colors.rs
+
+/Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/css-color-parser2-1.0.1/src/lib.rs:
+/Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/css-color-parser2-1.0.1/src/color/mod.rs:
+/Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/css-color-parser2-1.0.1/src/color/color.rs:
+/Users/chai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/css-color-parser2-1.0.1/src/color/named_colors.rs:

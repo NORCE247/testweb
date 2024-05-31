@@ -1,0 +1,7 @@
+cargo:rerun-if-changed=/Users/chai/Desktop/wasss/memory/ui/appwindow.slint
+cargo:rerun-if-env-changed=SLINT_STYLE
+cargo:rerun-if-env-changed=SLINT_FONT_SIZES
+cargo:rerun-if-env-changed=SLINT_SCALE_FACTOR
+cargo:rerun-if-env-changed=SLINT_ASSET_SECTION
+cargo:rerun-if-env-changed=SLINT_EMBED_RESOURCES
+cargo:rustc-env=SLINT_INCLUDE_GENERATED=/Users/chai/Desktop/wasss/memory/target/debug/build/memory-86915c9c9d6644cd/out/appwindow.rs
